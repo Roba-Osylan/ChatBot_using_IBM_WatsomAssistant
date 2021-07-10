@@ -1,0 +1,1700 @@
+{
+  "intents": [
+    {
+      "intent": "Academic_Calendar",
+      "examples": [
+        {
+          "text": "admission date"
+        },
+        {
+          "text": "classes begin"
+        },
+        {
+          "text": "date"
+        },
+        {
+          "text": "Eid Al Fiter Vacation"
+        },
+        {
+          "text": "exams begin"
+        },
+        {
+          "text": "Final Examination Period"
+        },
+        {
+          "text": "last day for"
+        },
+        {
+          "text": "Saudi National Day Vacation"
+        }
+      ],
+      "description": "The visitor asks about important dates. "
+    },
+    {
+      "intent": "Academic_Information",
+      "examples": [
+        {
+          "text": "available programs"
+        },
+        {
+          "text": "Bachelor degrees available"
+        },
+        {
+          "text": "colleges"
+        },
+        {
+          "text": "I wanna know about the bachelor degrees available"
+        },
+        {
+          "text": "i wanna know more about colleges"
+        },
+        {
+          "text": "I want to know about the bachelor degrees available"
+        },
+        {
+          "text": "I want to know the available programs"
+        },
+        {
+          "text": "I would like to know about the available programs"
+        },
+        {
+          "text": "programs"
+        },
+        {
+          "text": "Undergraduate programs?"
+        },
+        {
+          "text": "What are the academic programs?"
+        },
+        {
+          "text": "What're the academic programs?"
+        }
+      ],
+      "description": "The visitor asks for academic information such as colleges and undergraduate programs."
+    },
+    {
+      "intent": "Admission_and_Registration",
+      "examples": [
+        {
+          "text": "How to apply?"
+        },
+        {
+          "text": "How to register?"
+        },
+        {
+          "text": "is the admission open?"
+        },
+        {
+          "text": "is the admission open for the new year?"
+        },
+        {
+          "text": "is the application open?"
+        },
+        {
+          "text": "registration office"
+        },
+        {
+          "text": "what are the application requirements ?"
+        },
+        {
+          "text": "what is the required application documents"
+        },
+        {
+          "text": "what is the required documents?"
+        }
+      ],
+      "description": "The visitor asks about admission and registration services "
+    },
+    {
+      "intent": "Admission_and_Registration_State",
+      "examples": [
+        {
+          "text": "closed"
+        },
+        {
+          "text": "open"
+        }
+      ],
+      "description": "The visitor asks about the admission state"
+    },
+    {
+      "intent": "College_of_Business_and_Tourism",
+      "examples": [
+        {
+          "text": "accounting"
+        },
+        {
+          "text": "Business"
+        },
+        {
+          "text": "business management"
+        },
+        {
+          "text": "finance"
+        },
+        {
+          "text": "hospitality"
+        },
+        {
+          "text": "international hospitality management"
+        },
+        {
+          "text": "marketing"
+        }
+      ],
+      "description": "The visitor asks about college of business and tourism programs "
+    },
+    {
+      "intent": "College_of_Computer_and_CyberSciences",
+      "examples": [
+        {
+          "text": "College of computer and cyber science"
+        },
+        {
+          "text": "cyber"
+        },
+        {
+          "text": "i would like to know about AI"
+        },
+        {
+          "text": "i would like to know about cyber security program"
+        },
+        {
+          "text": "i would like to know about software engineering"
+        }
+      ],
+      "description": "The visitor asks about college of computer and cyber sciences "
+    },
+    {
+      "intent": "College_of_Engineering",
+      "examples": [
+        {
+          "text": "Architecture"
+        },
+        {
+          "text": "Architecture Engineering"
+        },
+        {
+          "text": "civil engineering"
+        },
+        {
+          "text": "college of engineering"
+        },
+        {
+          "text": "EE"
+        },
+        {
+          "text": "electrical engineering"
+        },
+        {
+          "text": "engineering"
+        },
+        {
+          "text": "interior design"
+        },
+        {
+          "text": "i wanna know about EE"
+        },
+        {
+          "text": "I want to know about college of engineering"
+        },
+        {
+          "text": "Iwant to know more about engineering college"
+        },
+        {
+          "text": "I would like to know more about college of engineering"
+        },
+        {
+          "text": "I would like to know more about engineering college"
+        },
+        {
+          "text": "specific engineering program"
+        },
+        {
+          "text": "What are the available majors in the college of engineering ?"
+        }
+      ],
+      "description": "The visitor asks about college of engineering."
+    },
+    {
+      "intent": "Continuing_Education_Center",
+      "examples": [
+        {
+          "text": "English coerces"
+        },
+        {
+          "text": "English Diploma"
+        },
+        {
+          "text": "IBDL certificates"
+        },
+        {
+          "text": "IELTS"
+        }
+      ],
+      "description": "The visitor asks about English programs / IBDL certificates"
+    },
+    {
+      "intent": "Ending_of_Conversation",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "good bye"
+        }
+      ],
+      "description": "The visitor says good bye."
+    },
+    {
+      "intent": "Fees",
+      "examples": [
+        {
+          "text": "amount"
+        },
+        {
+          "text": "fees"
+        },
+        {
+          "text": "how much is the tuition fees of the engineering college"
+        },
+        {
+          "text": "money"
+        },
+        {
+          "text": "payment"
+        },
+        {
+          "text": "school fees"
+        },
+        {
+          "text": "tuition fees"
+        }
+      ],
+      "description": "The visitor asks about tuition fees"
+    },
+    {
+      "intent": "Greeting",
+      "examples": [
+        {
+          "text": "afternoon"
+        },
+        {
+          "text": "GA"
+        },
+        {
+          "text": "GE"
+        },
+        {
+          "text": "GM"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "greeting"
+        },
+        {
+          "text": "greetings"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hi!"
+        },
+        {
+          "text": "hola"
+        },
+        {
+          "text": "morning"
+        },
+        {
+          "text": "Salam"
+        }
+      ],
+      "description": "Greeting expressions"
+    },
+    {
+      "intent": "Password_Self_Service",
+      "examples": [
+        {
+          "text": "I forgot my password"
+        },
+        {
+          "text": "password resetting"
+        },
+        {
+          "text": "reset my password"
+        }
+      ],
+      "description": "The student/staff needs help in resetting his/her password"
+    },
+    {
+      "intent": "Scholarships",
+      "examples": [
+        {
+          "text": "Albanian Orphan Scholarship"
+        },
+        {
+          "text": "Charitable Organizations Scholarship"
+        },
+        {
+          "text": "Excellence Scholarship"
+        },
+        {
+          "text": "Financial Assistance"
+        },
+        {
+          "text": "free programs"
+        },
+        {
+          "text": "Full scholarship"
+        },
+        {
+          "text": "Group discount"
+        },
+        {
+          "text": "I would like to know about the scholarship program please"
+        },
+        {
+          "text": "Partial Scholarship"
+        },
+        {
+          "text": "Saleh Abdullah Kamel's scholarship"
+        },
+        {
+          "text": "scholarships"
+        },
+        {
+          "text": "Siblings scholarship"
+        },
+        {
+          "text": "Talent Scholarship"
+        }
+      ],
+      "description": "The visitor asks about scholarships"
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "great thank you"
+        },
+        {
+          "text": "I appreciate it"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "merci"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank you"
+        }
+      ],
+      "description": "The visitor thanks the assistant"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Admission_state",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "admission period",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "open",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Application",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "how to apply",
+          "synonyms": [
+            "how can I apply"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "status",
+          "synonyms": [
+            "accepted",
+            "declined"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "what are the required documents",
+          "synonyms": [
+            "papers "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "what are the requirements",
+          "synonyms": [
+            "application requirements"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "College_of_Business_and_Tourism",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Accounting",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Business Management",
+          "synonyms": [
+            "Business"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Finance",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "general business and tourism",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hospitality",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marketing",
+          "synonyms": [
+            "Digital Marketing",
+            "Product Management ",
+            "Social Media Marketing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "specific business and tourism program",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "College_of_Computer_and_Cyber_Sciences",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Artificial Intelligence",
+          "synonyms": [
+            "AI"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Computer Science",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cyber Security and Forensic Computing",
+          "synonyms": [
+            "Cyber Security",
+            "Forensic Computing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "general about computer and cyber sciences",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Software Engineering",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "specific computer and cyber sciences program",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "College_of_Engineering",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Architecture Engineering",
+          "synonyms": [
+            "AE",
+            "Architectural Engineering",
+            "Architecture"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Civil Engineering",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Electrical Engineering",
+          "synonyms": [
+            "Control Systems",
+            "EE",
+            "Electric",
+            "Power systems",
+            "Renewable Energy",
+            "Robotics"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "general",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Interior Design",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "specific engineering",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for general information about Computer and Cyber Sciences: https://www.upm.edu.sa/en/program/college-computer-cyber-sciences "
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_7_1625941282163",
+      "conditions": "@College_of_Computer_and_Cyber_Sciences:(general about computer and cyber sciences)",
+      "event_name": "filled",
+      "dialog_node": "handler_1_1625942022026",
+      "previous_sibling": "handler_2_1625941282254"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Would you like to know about college of Computer and Cyber Sciences in general or a specific program?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_7_1625941282163",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1625941282254",
+      "previous_sibling": "handler_6_1625941282254"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Would you like to know about college of engineering in general or a specific engineering program?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_1_1625654433367",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1625654433369",
+      "previous_sibling": "handler_9_1625654433369"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1625942303121",
+      "context": {
+        "College_of_Business_and_Tourism": "@College_of_Business_and_Tourism"
+      },
+      "conditions": "@College_of_Business_and_Tourism",
+      "event_name": "input",
+      "dialog_node": "handler_4_1625942303184"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What program are you looking for?"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_10_1625942303121",
+      "conditions": "@College_of_Business_and_Tourism:(specific business and tourism program)",
+      "event_name": "filled",
+      "dialog_node": "handler_5_1625942435894",
+      "previous_sibling": "handler_6_1625942395406"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1625941282163",
+      "context": {
+        "College_of_Computer_and_Cyber_Sciences": "@College_of_Computer_and_Cyber_Sciences"
+      },
+      "conditions": "@College_of_Computer_and_Cyber_Sciences",
+      "event_name": "input",
+      "dialog_node": "handler_6_1625941282254"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Would you like to know about college of Business and Tourism in general or a specific program?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_10_1625942303121",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1625942303184",
+      "previous_sibling": "handler_4_1625942303184"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for general information about College of Business and Tourism: https://www.upm.edu.sa/en/program/college-business-administration"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_10_1625942303121",
+      "conditions": "@College_of_Business_and_Tourism:(general business and tourism)",
+      "event_name": "filled",
+      "dialog_node": "handler_6_1625942395406",
+      "previous_sibling": "handler_6_1625942303184"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What program are you looking for?"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_7_1625941282163",
+      "conditions": "@College_of_Computer_and_Cyber_Sciences:(specific computer and cyber sciences program)",
+      "event_name": "filled",
+      "dialog_node": "handler_8_1625942072120",
+      "previous_sibling": "handler_1_1625942022026"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1625654433367",
+      "context": {
+        "College_of_Engineering": "@College_of_Engineering"
+      },
+      "conditions": "@College_of_Engineering",
+      "event_name": "input",
+      "dialog_node": "handler_9_1625654433369"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, click this link for detailed information about College of Engineering https://www.upm.edu.sa/en/program/college-engineering"
+              }
+            ],
+            "response_type": "text"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_1_1625654433367",
+      "conditions": "@College_of_Engineering:general",
+      "event_name": "filled",
+      "dialog_node": "handler_9_1625654743904",
+      "previous_sibling": "handler_3_1625654433369"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What engineering program are you looking for?"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_1_1625654433367",
+      "conditions": "@College_of_Engineering:(specific engineering)",
+      "event_name": "filled",
+      "dialog_node": "handler_9_1625655448716",
+      "previous_sibling": "handler_9_1625654743904"
+    },
+    {
+      "type": "frame",
+      "title": "College of Business and Tourism",
+      "output": {
+        "generic": [
+          {
+            "response_type": "channel_transfer",
+            "transfer_info": {
+              "target": {
+                "chat": {
+                  "url": "https://www.upm.edu.sa/en/program/college-business-administration"
+                }
+              }
+            },
+            "message_to_user": "Click this link for more information about College of Business and Tourism. "
+          }
+        ]
+      },
+      "conditions": "#College_of_Business_and_Tourism",
+      "dialog_node": "node_10_1625562605719",
+      "previous_sibling": "node_5_1625575075558"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1625562605719",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@College_of_Business_and_Tourism",
+      "dialog_node": "node_10_1625584796986",
+      "previous_sibling": "slot_10_1625942303121"
+    },
+    {
+      "type": "standard",
+      "title": "Password Self Service",
+      "output": {
+        "generic": [
+          {
+            "response_type": "channel_transfer",
+            "transfer_info": {
+              "target": {
+                "chat": {
+                  "url": "https://ads.upm.edu.sa/authorization.do"
+                }
+              }
+            },
+            "message_to_user": "Don't worry. Click this link, click on \"Forgot your password?\" then follow the instructions."
+          }
+        ]
+      },
+      "conditions": "#Password_Self_Service",
+      "dialog_node": "node_10_1625588112711",
+      "previous_sibling": "node_2_1625591010087"
+    },
+    {
+      "type": "standard",
+      "title": "Admission and Registration",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "One moment please "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Admission_and_Registration",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1625564445565",
+      "previous_sibling": "node_7_1625589013364"
+    },
+    {
+      "type": "standard",
+      "title": "Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're welcome. Just let me know if you need anything else."
+              },
+              {
+                "text": "My pleasure. Just let me know if you need anything else."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanks",
+      "dialog_node": "node_1_1625579558015",
+      "previous_sibling": "node_10_1625588112711"
+    },
+    {
+      "type": "standard",
+      "title": "Admission Period",
+      "parent": "node_1_1625564445565",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Admission_state",
+      "dialog_node": "node_1_1625589676830"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Greeting",
+      "dialog_node": "node_2_1625499431279",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Scholarships ",
+      "output": {
+        "generic": [
+          {
+            "response_type": "channel_transfer",
+            "transfer_info": {
+              "target": {
+                "chat": {
+                  "url": "https://www.upm.edu.sa/en/admission/financial-aids"
+                }
+              }
+            },
+            "message_to_user": "Click this link for detailed informarion about the types of scholarships. "
+          },
+          {
+            "values": [
+              {
+                "text": "or contact Ms. Lama Alomar \nOffice: 014-8654563 Ex: 3044\nEmail: l.alomar@upm.edu.sa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Scholarships",
+      "dialog_node": "node_2_1625591010087",
+      "previous_sibling": "node_3_1625576763407"
+    },
+    {
+      "type": "standard",
+      "title": "Tuition Fees",
+      "output": {
+        "generic": [
+          {
+            "response_type": "channel_transfer",
+            "transfer_info": {
+              "target": {
+                "chat": {
+                  "url": "https://www.upm.edu.sa/en/admission/tuition-fees"
+                }
+              }
+            },
+            "message_to_user": "Click this link for additional information about tuition fees."
+          },
+          {
+            "values": [
+              {
+                "text": "or contact the financial office for more information about tuition fees."
+              },
+              {
+                "text": "Male Campus:\nMr. Abdulaziz Alrehaili  \nEmail: a.alrehaili@upm.edu.sa"
+              },
+              {
+                "text": "Female Campus:\nMs. Shahd Shaikh\nEmail: s.shaikh@upm.edu.sa"
+              },
+              {
+                "text": "financial.dept@upm.edu.sa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Fees",
+      "dialog_node": "node_3_1625576763407",
+      "previous_sibling": "node_6_1625569476589"
+    },
+    {
+      "type": "standard",
+      "parent": "node_5_1625575075558",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@College_of_Computer_and_Cyber_Sciences",
+      "dialog_node": "node_3_1625584773728",
+      "previous_sibling": "slot_7_1625941282163"
+    },
+    {
+      "type": "standard",
+      "title": "Academic Information",
+      "output": {
+        "generic": [
+          {
+            "response_type": "channel_transfer",
+            "transfer_info": {
+              "target": {
+                "chat": {
+                  "url": "https://www.upm.edu.sa/en/academic-information"
+                }
+              }
+            },
+            "message_to_user": " Click this link for more academic information.  "
+          }
+        ]
+      },
+      "conditions": "#Academic_Information",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1625499556480",
+      "previous_sibling": "node_2_1625499431279"
+    },
+    {
+      "type": "frame",
+      "title": "College of Engineering ",
+      "output": {
+        "generic": []
+      },
+      "conditions": "#College_of_Engineering",
+      "dialog_node": "node_4_1625575194433",
+      "previous_sibling": "node_4_1625499556480"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry! I didn't get that. Would you say that in a different way?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1625580190509",
+      "previous_sibling": "node_8_1625504804948"
+    },
+    {
+      "type": "frame",
+      "title": "College of Computer and Cyber Sciences",
+      "output": {
+        "generic": []
+      },
+      "conditions": "#College_of_Computer_and_CyberSciences",
+      "dialog_node": "node_5_1625575075558",
+      "previous_sibling": "node_4_1625575194433"
+    },
+    {
+      "type": "standard",
+      "title": "Academic Calendar ",
+      "output": {
+        "generic": [
+          {
+            "response_type": "channel_transfer",
+            "transfer_info": {
+              "target": {
+                "chat": {
+                  "url": "https://www.upm.edu.sa/en/academic-calendar#period-1530"
+                }
+              }
+            },
+            "message_to_user": "OK, click this link the see the Academic Calendar. Chat will continue on a new web page."
+          }
+        ]
+      },
+      "conditions": "#Academic_Calendar",
+      "dialog_node": "node_6_1625569476589",
+      "previous_sibling": "node_1_1625564445565"
+    },
+    {
+      "type": "standard",
+      "title": "Continuing Education Center",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The CEC offers English and IBDL programs."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "response_type": "channel_transfer",
+            "transfer_info": {
+              "target": {
+                "chat": {
+                  "url": "https://www.upm.edu.sa/en/cec"
+                }
+              }
+            },
+            "message_to_user": "Click this link for detailed information. "
+          }
+        ]
+      },
+      "conditions": "#Continuing_Education_Center",
+      "dialog_node": "node_7_1625589013364",
+      "previous_sibling": "node_10_1625562605719"
+    },
+    {
+      "type": "standard",
+      "title": "Ending_of_Conversation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good bye."
+              },
+              {
+                "text": "Good luck!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Ending_of_Conversation",
+      "dialog_node": "node_8_1625504804948",
+      "previous_sibling": "node_1_1625579558015"
+    },
+    {
+      "type": "standard",
+      "title": "Engineering Department ",
+      "parent": "node_4_1625575194433",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@College_of_Engineering",
+      "dialog_node": "node_8_1625583249956",
+      "previous_sibling": "slot_1_1625654433367"
+    },
+    {
+      "type": "standard",
+      "title": "Application",
+      "parent": "node_1_1625564445565",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Application",
+      "dialog_node": "node_8_1625590147725",
+      "previous_sibling": "node_1_1625589676830"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Architecture Engineering Department https://www.upm.edu.sa/en/specialization/architecture-engineering"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625583249956",
+      "conditions": "@College_of_Engineering:(Architecture Engineering)",
+      "dialog_node": "response_10_1625583939350",
+      "previous_sibling": "response_1_1625583588637"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Marketing program https://www.upm.edu.sa/en/specialization/marketing"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1625584796986",
+      "conditions": "@College_of_Business_and_Tourism:Marketing",
+      "dialog_node": "response_10_1625586752998",
+      "previous_sibling": "response_1_1625586717377"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the International Hospitality Management program https://www.upm.edu.sa/en/specialization/international-hospitality-management"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1625584796986",
+      "conditions": "@College_of_Business_and_Tourism:Hospitality",
+      "dialog_node": "response_10_1625586806887",
+      "previous_sibling": "response_10_1625586752998"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good morning. I'm here to help you. What are you looking for?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625499431279",
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "response_1_1625579751713"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi!. I'm here to help you. What are you looking for?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625499431279",
+      "dialog_node": "response_1_1625579903448",
+      "previous_sibling": "response_3_1625579870238"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Click this link for detailed information about the Electrical Engineering Department https://www.upm.edu.sa/en/specialization/electrical-engineering"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1625583249956",
+      "conditions": "@College_of_Engineering:(Electrical Engineering)",
+      "dialog_node": "response_1_1625583588637"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Business Management program https://www.upm.edu.sa/en/specialization/business-management"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1625584796986",
+      "conditions": "@College_of_Business_and_Tourism:(Business Management)",
+      "dialog_node": "response_1_1625586717377",
+      "previous_sibling": "response_2_1625586682795"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " Good afternoon. I'm here to help you. What are you looking for?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625499431279",
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "response_2_1625579810800",
+      "previous_sibling": "response_1_1625579751713"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Click this link for more information about the Accounting program https://www.upm.edu.sa/en/specialization/accounting"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1625584796986",
+      "conditions": "@College_of_Business_and_Tourism:Accounting",
+      "dialog_node": "response_2_1625586597894"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Finance program https://www.upm.edu.sa/en/specialization/finance"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1625584796986",
+      "conditions": "@College_of_Business_and_Tourism:Finance",
+      "dialog_node": "response_2_1625586682795",
+      "previous_sibling": "response_2_1625586597894"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Any secondary school degree holder from inside the Kingdom of Saudi Arabia or its equivalent from other countries is eligible to apply to the university given the following admission requirements:\n\n-The applicant should hold a secondary school degree from inside the Kingdom of Saudi Arabia or its equivalent from other countries.\n-The applicant should be a recent high school graduate (Less than 5 years since graduation).\n-IELTS English Language Test provided by the British Council (Kindly check its validity by referring to accredited bodies)\n-Taking the Coronavirus vaccine before the start of the new semester, no later than 08/22/2021, corresponding to 01/14/1443, and sending the medical report from Sehaty (My Health) app to the University Admissions mail: admission@upm.edu.sa\n\nIn case you do not meet one or more of the admission requirements, kindly contact the Admission Department via :\n\nEmail: admission@upm.edu.sa\n\nPhone: 920000238 Ex: 1\n\nMobile (WahtsApp): +966538382200"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625590147725",
+      "conditions": "@Application:(what are the requirements)",
+      "dialog_node": "response_2_1625590470197",
+      "previous_sibling": "response_6_1625590194528"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good evening. I'm here to help you. What are you looking for?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625499431279",
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "response_3_1625579870238",
+      "previous_sibling": "response_2_1625579810800"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Civil Engineering Department https://www.upm.edu.sa/en/specialization/civil-engineering"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625583249956",
+      "conditions": "@College_of_Engineering:(Civil Engineering)",
+      "dialog_node": "response_3_1625584146279",
+      "previous_sibling": "response_8_1625583991710"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Click this link for more information about the Software Engineering Department https://www.upm.edu.sa/en/specialization/software-engineering"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1625584773728",
+      "conditions": "@College_of_Computer_and_Cyber_Sciences:(Software Engineering)",
+      "dialog_node": "response_3_1625586868680"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Cyber Security & Forensic Computing Department https://www.upm.edu.sa/en/specialization/cyber-security-forensic-computing"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1625584773728",
+      "conditions": "@College_of_Computer_and_Cyber_Sciences:(Cyber Security and Forensic Computing)",
+      "dialog_node": "response_3_1625587321719",
+      "previous_sibling": "response_5_1625587286373"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Computer Science Department https://www.upm.edu.sa/en/specialization/computer-science"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1625584773728",
+      "conditions": "@College_of_Computer_and_Cyber_Sciences:(Computer Science)",
+      "dialog_node": "response_3_1625587555282",
+      "previous_sibling": "response_3_1625587321719"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The admission is open for the academic year 2021-2022. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1625589676830",
+      "conditions": "@Admission_state:open",
+      "dialog_node": "response_3_1625589784229",
+      "previous_sibling": "response_7_1625589761599"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Artificial Intelligence Department https://www.upm.edu.sa/en/specialization/artificial-intelligence"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1625584773728",
+      "conditions": "@College_of_Computer_and_Cyber_Sciences:(Artificial Intelligence)",
+      "dialog_node": "response_5_1625587286373",
+      "previous_sibling": "response_3_1625586868680"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Click this link then click \"Submit New Application\" and follow the instructions https://admissions.upm.edu.sa/psp/ps/?cmd=login&languageCd=ENG ,                                      or contact the Admission Office via Admission@upm.edu.sa"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1625590147725",
+      "conditions": "@Application:(how to apply)",
+      "dialog_node": "response_6_1625590194528"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "The admission deadlines are: Fall: between May 18, 2021 to September 02, 2021  Spring: Starting from November 28, 2021 to January 22, 2022"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1625589676830",
+      "conditions": "@Admission_state:(admission period)",
+      "dialog_node": "response_7_1625589761599"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Within 3-4 business days, you will receive a notification email and text message explaining the next steps required to complete your admission process."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625590147725",
+      "conditions": "@Application:status",
+      "dialog_node": "response_7_1625590888423",
+      "previous_sibling": "response_8_1625590701986"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Click this link for more information about the Interior Design Department  https://www.upm.edu.sa/en/specialization/interior-design-engineering"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625583249956",
+      "conditions": "@College_of_Engineering:(Interior Design)",
+      "dialog_node": "response_8_1625583991710",
+      "previous_sibling": "response_10_1625583939350"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "-Secondary school Certificate.-Copy of Saudi National ID for Saudis or residency for non-Saudi nationals.-Copy of applicant Passport.-Copy of aptitude exam results, could be printed out from the National Center for Assessment, if applicable.-A copy of achievement exam results, if applicable.-A certified medical report duly signed and sealed by a verified medical body, such as (a hospital or a medical center). Download Medical Examination Form-Recent colored photographs.-A copy of your English test (IELTS or an equivalent), if applicable. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625590147725",
+      "conditions": "@Application:(what are the required documents)",
+      "dialog_node": "response_8_1625590701986",
+      "previous_sibling": "response_2_1625590470197"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_10_1625562605719",
+      "variable": "$College_of_Business_and_Tourism",
+      "dialog_node": "slot_10_1625942303121"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1625575194433",
+      "variable": "$College_of_Engineering",
+      "dialog_node": "slot_1_1625654433367"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_5_1625575075558",
+      "variable": "$College_of_Computer_and_Cyber_Sciences",
+      "dialog_node": "slot_7_1625941282163"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. I am an UPMer. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Orientation Skill",
+  "language": "en",
+  "description": ""
+}

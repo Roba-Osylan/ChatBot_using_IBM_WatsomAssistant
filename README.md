@@ -37,6 +37,7 @@ Since the website visitors have different minds, different ways of speaking and 
 Two examples of successful chats between the assistant and the user are shown in below.
 
 **Chat 1:**
+
 ![EC11](https://user-images.githubusercontent.com/85955049/125174141-e31ef680-e1cb-11eb-9486-5d1a53d0ba89.png)
 
 ![EC12](https://user-images.githubusercontent.com/85955049/125174153-ee722200-e1cb-11eb-82db-694470ddafcd.png)
@@ -45,6 +46,7 @@ Two examples of successful chats between the assistant and the user are shown in
 
 
 **Chat 2:**
+
 ![EC21](https://user-images.githubusercontent.com/85955049/125174166-06e23c80-e1cc-11eb-9357-e9114cb29586.png)
 
 ![EC22](https://user-images.githubusercontent.com/85955049/125174171-15305880-e1cc-11eb-965f-ea9a23610921.png)

@@ -34,7 +34,7 @@ Since the website visitors have different minds, different ways of speaking and 
 ![chat12](https://user-images.githubusercontent.com/85955049/125174048-4b210d00-e1cb-11eb-9d81-9d6efacf4561.png)
 
 # Successful Chats
-Two examples of successful chats between the assistant and the user are shown in below.
+Two examples of successful chats between the assistant and the user are shown below.
 
 **Chat 1:**
 
@@ -55,7 +55,7 @@ Two examples of successful chats between the assistant and the user are shown in
 
 # How to Style and Integrate the ChatBot
 
-The figure below shows how the assistant looks like on the web site. Some features such as the background color, or the heading text and the picture of the assistant are editable.
+The figure below shows how the assistant looks like on the website. Some features such as the background color, or the heading text and the picture of the assistant are editable.
 ![style](https://user-images.githubusercontent.com/85955049/125174232-71937800-e1cc-11eb-9196-d39ad573cc38.png)
 
 In order to embed the chatbot assistant on the website, the script shown in the figure should be added to the body of the index.html file of the website.
